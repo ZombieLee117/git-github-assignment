@@ -2,3 +2,5 @@ This is a text file for my GitHub assignment
 GitHub is used to store repositories 
 GitHub is also used to share code among the public
 Git is used to track the changes to repos  
+
+Branching is used when you are working on a project with multiple people so they can work on separate projects and merge them into the main branch when the work is finished
